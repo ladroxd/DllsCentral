@@ -3,6 +3,7 @@
 
 Current Uploads : 
 - Gamesense
+- Fatality
+- Primordial
 - Havoc
 - Arctic.Tech
-- Primordial
