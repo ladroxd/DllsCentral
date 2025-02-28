@@ -1,5 +1,5 @@
 # DllsCentral
-## Every known &amp; public CSGO dll proven , tested and released to the community.
+## Every known &amp; public CSGO DLL proven, tested and released to the community.
 
 Current Uploads : 
 - Gamesense
@@ -7,3 +7,4 @@ Current Uploads :
 - Primordial
 - Havoc
 - Arctic.Tech
+- Pandora
