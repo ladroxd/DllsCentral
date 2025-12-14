@@ -1,0 +1,24 @@
+{
+  "name": "dllscentral",
+  "version": "1.0.0",
+  "description": "Every known & public CSGO DLL proven, tested and released to the community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladroxd/DllsCentral.git"
+  },
+  "keywords": [
+    "csgo",
+    "dll",
+    "gaming"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ladroxd/DllsCentral/issues"
+  },
+  "homepage": "https://github.com/ladroxd/DllsCentral#readme"
+}
